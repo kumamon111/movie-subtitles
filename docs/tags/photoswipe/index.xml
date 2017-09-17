@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photoswipe on English study</title>
+    <link>http://movie-subtitles.tk/tags/photoswipe/</link>
+    <description>Recent content in Photoswipe on English study</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://movie-subtitles.tk/tags/photoswipe/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Photoswipe Gallery Sample</title>
+      <link>http://movie-subtitles.tk/post/2017-03-20-photoswipe-gallery-sample/</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://movie-subtitles.tk/post/2017-03-20-photoswipe-gallery-sample/</guid>
+      <description>&lt;p&gt;Beautiful Hugo adds a few custom shortcodes created by &lt;a href=&#34;https://www.liwen.id.au/heg/&#34;&gt;Li-Wen Yip&lt;/a&gt; and &lt;a href=&#34;https://github.com/GjjvdBurg/HugoPhotoSwipe&#34;&gt;Gert-Jan van den Berg&lt;/a&gt; for making galleries with &lt;a href=&#34;http://photoswipe.com&#34;&gt;PhotoSwipe&lt;/a&gt; .&lt;/p&gt;
+
+&lt;p&gt;{{&amp;lt; gallery caption-effect=&amp;ldquo;fade&amp;rdquo; &amp;gt;}}
+  {{&amp;lt; figure thumb=&amp;ldquo;-thumb&amp;rdquo; link=&amp;ldquo;/img/hexagon.jpg&amp;rdquo; &amp;gt;}}
+  {{&amp;lt; figure thumb=&amp;ldquo;-thumb&amp;rdquo; link=&amp;ldquo;/img/sphere.jpg&amp;rdquo; caption=&amp;ldquo;Sphere&amp;rdquo; &amp;gt;}}
+  {{&amp;lt; figure thumb=&amp;ldquo;-thumb&amp;rdquo; link=&amp;ldquo;/img/triangle.jpg&amp;rdquo; caption=&amp;ldquo;Triangle&amp;rdquo; alt=&amp;ldquo;This is a long comment about a triangle&amp;rdquo; &amp;gt;}}
+{{&amp;lt; /gallery &amp;gt;}}
+{{&amp;lt; load-photoswipe &amp;gt;}}&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
