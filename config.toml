@@ -15,8 +15,8 @@ pygmentCodeFences = true
 
 [Params]
   subtitle = "映画で学ぶネイティブ英語"
-  logo = "img/avatar-icon.png"
-  favicon = "img/favicon.ico"
+  logo = ""
+  favicon = ""
   dateFormat = "January 2, 2006"
   commit = false
   rss = true
