@@ -1,39 +1,24 @@
 ---
-title: Photoswipe Gallery Sample
-subtitle: Making a Gallery
+title: Giving away free money
 date: 2017-03-20
-tags: ["example", "photoswipe"]
+tags: ["money"]
 ---
 
-Beautiful Hugo adds a few custom shortcodes created by [Li-Wen Yip](https://www.liwen.id.au/heg/) and [Gert-Jan van den Berg](https://github.com/GjjvdBurg/HugoPhotoSwipe) for making galleries with [PhotoSwipe](http://photoswipe.com) . 
+## Giving away free money
+すごい人見つけちゃいました。
 
-{{< gallery caption-effect="fade" >}}
-  {{< figure thumb="-thumb" link="/img/hexagon.jpg" >}}
-  {{< figure thumb="-thumb" link="/img/sphere.jpg" caption="Sphere" >}}
-  {{< figure thumb="-thumb" link="/img/triangle.jpg" caption="Triangle" alt="This is a long comment about a triangle" >}}
-{{< /gallery >}}
-{{< load-photoswipe >}}
 
-<!--more-->
-## Example
-The above gallery was created using the following shortcodes:
-```
-{{</* gallery caption-effect="fade" */>}}
-  {{</* figure thumb="-thumb" link="/img/hexagon.jpg" */>}}
-  {{</* figure thumb="-thumb" link="/img/sphere.jpg" caption="Sphere" */>}}
-  {{</* figure thumb="-thumb" link="/img/triangle.jpg" caption="Triangle" alt="This is a long comment about a triangle" */>}}
-{{</* /gallery */>}}
-{{</* load-photoswipe */>}}
-```
+## 望みを言うだけで簡単にお金がもらえる？
 
-## Usage
-For full details please see the [hugo-easy-gallery GitHub](https://github.com/liwenyip/hugo-easy-gallery/) page. Basic usages from above are:
+>That's all you have to do. I am currently selecting folks to send my hard-earned money to, with no strings attached. Request $1, $10, $100 or $1000. No amount is too big or too small, and I will read every e-mail and consider every need and want. I know this is a bizarre concept. But no, I don't want to send you information. I don't want to sell you anything. I don't want anything in return. Call me crazy, but I want to make people happy. Just send me an e-mail explaining why you want or need money. I may or may not decide to reward you. I will decide the amount and select the recipients. 
 
-- Create a gallery with open and close tags `{{</* gallery */>}}` and `{{</* /gallery */>}}`
-- `{{</* figure src="image.jpg" */>}}` will use `image.jpg` for thumbnail and lightbox
-- `{{</* figure src="thumb.jpg" link="image.jpg" */>}}` will use `thumb.jpg` for thumbnail and `image.jpg` for lightbox
-- `{{</* figure thumb="-small" link="image.jpg" */>}}` will use `image-small.jpg` for thumbnail and `image.jpg` for lightbox
-- All the [features/parameters](https://gohugo.io/extras/shortcodes) of Hugo's built-in `figure` shortcode work as normal, i.e. src, link, title, caption, class, attr (attribution), attrlink, alt
-- `{{</* gallery caption-effect="fade" */>}}` will fade in captions for all figures in this gallery instead of the default slide-up behavior
-- Many gallery styles for captions and hover effects exist; view the [hugo-easy-gallery GitHub](https://github.com/liwenyip/hugo-easy-gallery/) for all options
-- Call `{{</* load-photoswipe */>}}` **once** anywhere you want on each page where you want to use PhotoSwipe
+>あなたがすることは以下のことだけです。私は自分が苦労して稼いだお金をもっと困っている人に送ろうと思っています。 $ 1、$ 10、$ 100、$ 1000をリクエストしてください。金額が大きすぎたり小さすぎたりすることはありません。すべての電子メールを読み、必要性などをすべて熟考します。こんなことは普通おかしいことですが、私はあなたに何かの情報を送ったり、何かを売ったりはしません。なんの見返りもいりません。狂ったやつだと思うかもしれないが、私は人々を幸せにしたい。なぜあなたがお金を欲しいのか、なぜ必要としているのかを記載してメールを送ってください。私はあなたを選ぶかもしれないし、選ばないかもしれませんが、あげられる範囲の中で私は必ずお金を受け取ってくれる人を選びます。（HPより）
+
+## 何者なのか
+
+正体不明だが、おそらく過去に何かあったか、相当のお金持ちか、自己満足か...謎だ。
+
+## どうやって申し込むの？
+
+<a href="http://www.givingawayfreemoney.com/money/">こちら</a>のリンクから入り、メッセージを送信してください。  
+
