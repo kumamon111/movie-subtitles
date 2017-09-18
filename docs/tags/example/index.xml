@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example on English study</title>
+    <link>http://movie-subtitles.tk/tags/example.html</link>
+    <description>Recent content in Example on English study</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Tue, 07 Mar 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://movie-subtitles.tk/tags/example/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Big Image Sample</title>
+      <link>http://movie-subtitles.tk/post/2017-03-07-bigimg-sample.html</link>
+      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://movie-subtitles.tk/post/2017-03-07-bigimg-sample.html</guid>
+      <description>&lt;p&gt;The image banners at the top of the page are refered to as &amp;ldquo;bigimg&amp;rdquo; in this theme. They are optional, and one more more can be specified. If more than one is specified, the images rotate every 10 seconds. In the front matter, bigimgs are specified using an array of hashes.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Sample</title>
+      <link>http://movie-subtitles.tk/post/2017-03-05-math-sample.html</link>
+      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://movie-subtitles.tk/post/2017-03-05-math-sample.html</guid>
+      <description>&lt;p&gt;KaTeX can be used to generate complex math formulas server-side.&lt;/p&gt;
+
+&lt;p&gt;$$
+\phi = \frac{(1+\sqrt{5})}{2} = 1.6180339887\cdots
+$$&lt;/p&gt;
+
+&lt;p&gt;Additional details can be found on &lt;a href=&#34;https://github.com/Khan/KaTeX&#34;&gt;GitHub&lt;/a&gt; or on the &lt;a href=&#34;http://tiddlywiki.com/plugins/tiddlywiki/katex/&#34;&gt;Wiki&lt;/a&gt;.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Code Sample</title>
+      <link>http://movie-subtitles.tk/post/2016-03-08-code-sample.html</link>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://movie-subtitles.tk/post/2016-03-08-code-sample.html</guid>
+      <description>&lt;p&gt;The following are two code samples using syntax highlighting.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Test markdown</title>
+      <link>http://movie-subtitles.tk/post/2015-02-20-test-markdown.html</link>
+      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://movie-subtitles.tk/post/2015-02-20-test-markdown.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

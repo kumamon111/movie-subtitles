@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown on English study</title>
+    <link>http://movie-subtitles.tk/tags/markdown.html</link>
+    <description>Recent content in Markdown on English study</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Fri, 20 Feb 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://movie-subtitles.tk/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test markdown</title>
+      <link>http://movie-subtitles.tk/post/2015-02-20-test-markdown.html</link>
+      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://movie-subtitles.tk/post/2015-02-20-test-markdown.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
