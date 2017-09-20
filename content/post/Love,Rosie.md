@@ -5,18 +5,20 @@ tags: ["English", "movie"]
 ---
 
 
+
+
 Love, Rosie
 
 
-<i>Take a deep breath
-and start at the beginning.</i>
+Take a deep breath
+and start at the beginning.
 
 
-<i>Tell them how we first met.</i>
+Tell them how we first met.
 
 
-- Hi.
-- Hi.
+Hi.
+Hi.
 
 
 Alex Stewart?
@@ -25,17 +27,17 @@ Alex Stewart?
 Tell them that
 
 
-<i>ever since we shared our dreams...</i>
+ever since we shared our dreams...
 
 
-- Yeah!
-- Yeah!
+Yeah!
+Yeah!
 
 
 I had a dream last night.
 
 
-<i>...even Alex's weirdest ones.</i>
+...even Alex's weirdest ones.
 
 
 You know a rowing boat?
@@ -45,8 +47,8 @@ That little curvy
 bit the oar sits in?
 
 
-- It's called a rollock, by the way.
-- A what?
+It's called a rollock, by the way.
+A what?
 
 
 Rollock, like "bollock" with an "R."
@@ -56,23 +58,23 @@ That was me.
 I was that thing.
 
 
-<i>No. Keep that as our secret.</i>
+No. Keep that as our secret.
 
 
 Rosie?
 Rosie, it's time.
 
 
-<i>Tell them that this is,</i>
+Tell them that this is,
 
 
-<i>that this has to be...</i>
+that this has to be...
 
 
 Everybody!
 
 
-<i>...one of the happiest days of my life.</i>
+...one of the happiest days of my life.
 
 
 Please!
@@ -103,8 +105,8 @@ Yeah!
 Whoa!
 
 
-- Hi, Alex.
-- How's it going, mate?
+Hi, Alex.
+How's it going, mate?
 
 
 All right.
@@ -163,11 +165,11 @@ You can't tell anyone!
 Right.
 
 
-<i>♪ Rosie had her stomach pumped!</i>
+♪ Rosie had her stomach pumped!
 
 
-<i>- ♪ Rosie had her stomach pumped!
-- Piss off!</i>
+♪ Rosie had her stomach pumped!
+Piss off!
 
 
 Go, go. go!
@@ -205,12 +207,12 @@ in the library every
 day for a fortnight.
 
 
-- Nightmare.
-- Well, it could be worse.
+Nightmare.
+Well, it could be worse.
 
 
 Bethany Williams has just got
-a part-time job there.
+a parttime job there.
 
 
 Yeah, right.
@@ -219,8 +221,8 @@ Yeah, right.
 What?
 
 
-- Bethany Williams?
-- Mmm.
+Bethany Williams?
+Mmm.
 
 
 Forget it, even I want
@@ -238,8 +240,8 @@ why you haven't squeezed that zit
 on your forehead.
 
 
-- Fuck off!
-- No. Come here. I can do it for you.
+Fuck off!
+No. Come here. I can do it for you.
 
 
 Don't touch me!
@@ -293,8 +295,8 @@ Yeah, absolutely not.
 I'll see you there.
 
 
-- Hey, girls!
-- What did he say to you?
+Hey, girls!
+What did he say to you?
 
 
 Pathetic.
@@ -326,8 +328,8 @@ who is apparently
 out of my league?
 
 
-- Is that a serious question?
-- Yeah, absolutely.
+Is that a serious question?
+Yeah, absolutely.
 
 
 Mmm, well, you're at a disadvantage
@@ -350,8 +352,8 @@ Act like you could
 take it or leave it.
 
 
-- You see, that I've had practice at.
-- Hmm.
+You see, that I've had practice at.
+Hmm.
 
 
 Uh, second, you have to make her feel like
@@ -429,8 +431,8 @@ Go for it.
 OK. Fine, I will.
 
 
-- Bethany? Bethany, hi.
-- Hey.
+Bethany? Bethany, hi.
+Hey.
 
 
 Yeah!
@@ -442,11 +444,11 @@ Come on.
 Me, too.
 
 
-<i>I need to concentrate so
-I can pass my exams</i>
+I need to concentrate so
+I can pass my exams
 
 
-<i>and get a life.</i>
+and get a life.
 
 
 Not Bethany!
@@ -501,7 +503,7 @@ Don't flatter yourself.
 Good.
 
 
-I know boy-girl friendships
+I know boygirl friendships
 
 
 can be quite complicated sometimes,
@@ -564,8 +566,8 @@ Fuck!
 Oh, just...
 
 
-- You have done this before?
-- Yeah. Haven't you?
+You have done this before?
+Yeah. Haven't you?
 
 
 It's like brushing my teeth.
@@ -574,8 +576,8 @@ It's like brushing my teeth.
 Ahhh! Bollocks!
 
 
-- That's... Look, let me help you...
-- No, leave it!
+That's... Look, let me help you...
+No, leave it!
 
 
 OK, I've got it.
@@ -609,12 +611,12 @@ Mmm.
 OK.
 
 
-- Where is it?
-- What?
+Where is it?
+What?
 
 
-- The thing.
-- I don't know.
+The thing.
+I don't know.
 
 
 Seriously, Greg, where is it?
@@ -634,22 +636,22 @@ Rosie?
 Have you found it?
 
 
-- Do you want me to
+Do you want me to
 have a look for you?
 
 
-- Really?
-- Yeah, go on all fours.
+Really?
+Yeah, go on all fours.
 
 
 Bugger off!
 
 
-<i>- Rosie!</i>
-- Alex! Thank God! Where are you?
+Rosie!
+Alex! Thank God! Where are you?
 
 
-<i>I'm on my way out!</i>
+I'm on my way out!
 
 
 No, wait, you've got to help me,
@@ -658,7 +660,7 @@ No, wait, you've got to help me,
 there's been an accident!
 
 
-<i>Christ, what?</i>
+Christ, what?
 
 
 No, no, no, sorry, no,
@@ -666,15 +668,15 @@ that's what I meant.
 Everything's fine.
 
 
-<i>Jesus, you scared me!</i>
+Jesus, you scared me!
 
 
 I mean, there was an accident, um,
 with the thingy with Greg, you know?
 
 
-<i>- Well, that happens, Rosie!
-- No, no,</i> Alex.
+Well, that happens, Rosie!
+No, no, Alex.
 
 
 Something that
@@ -695,7 +697,7 @@ Can we just talk
 about this later?
 
 
-<i>No, Alex, please!</i>
+No, Alex, please!
 
 
 OK, you need to be really clear
@@ -838,7 +840,7 @@ It would be so much fun,
 and it would be...
 
 
-<i>Did you ever want more, Dad?</i>
+Did you ever want more, Dad?
 
 
 Do you know
@@ -874,7 +876,7 @@ Is it crazy to think like that?
 
 
 I've been winging it
-with you for  years,
+with you for years,
 
 
 pretending I was the one in charge.
@@ -954,34 +956,34 @@ Yeah, yeah...
 Oh, my God, is...
 
 
-- Is that?
-- Bethany.
+Is that?
+Bethany.
 
 
 So, when you said he was...
 
 
-- Tied up.
-- You actually meant...
+Tied up.
+You actually meant...
 
 
 Tied up.
 
 
-- Um, I should go.
-- Any second now.
+Um, I should go.
+Any second now.
 
 
-- Oh, Alex.
-- "Oh, Alex.
+Oh, Alex.
+"Oh, Alex.
 
 
-- Where did you learn
-- "Where did you learn
+Where did you learn
+"Where did you learn
 
 
-- to do that?
-- "to do that?"
+to do that?
+"to do that?"
 
 
 I know.
@@ -1013,16 +1015,16 @@ Maybe you could
 just give me a pill or something...
 
 
-- Any diarrhoea?
-- No.
+Any diarrhoea?
+No.
 
 
-- Fever?
-- No.
+Fever?
+No.
 
 
-- Stomach cramps?
-- No.
+Stomach cramps?
+No.
 
 
 Well, have you missed a period?
@@ -1031,11 +1033,11 @@ Well, have you missed a period?
 Yeah.
 
 
-- Uh, no.
-- Virgin?
+Uh, no.
+Virgin?
 
 
-No, but I took the morning-after pill!
+No, but I took the morningafter pill!
 
 
 % safe. % is the catch.
@@ -1051,13 +1053,13 @@ Fuck, fuck, fuck!
 Bollocks.
 
 
-<i>I'd love to, but Bethany's parents</i>
+I'd love to, but Bethany's parents
 
 
-<i>are taking us out to dinner at the Hazel.</i>
+are taking us out to dinner at the Hazel.
 
 
-<i>How posh is that?</i>
+How posh is that?
 
 
 OK. I'm sorry.
@@ -1069,8 +1071,8 @@ Um, I... I...
 I've got news.
 
 
-- Me, too.
-- Read it.
+Me, too.
+Read it.
 
 
 Scholarship to Harvard!
@@ -1105,16 +1107,16 @@ Oh, God, she's got this
 thing about my hair.
 
 
-- Yeah.
-- But she literally yanks it.
+Yeah.
+But she literally yanks it.
 
 
 And she pulls
 this funny face during sex like this...
 
 
-- Enough. Enough...
-- I think she likes it.
+Enough. Enough...
+I think she likes it.
 
 
 Don't you care what
@@ -1177,16 +1179,16 @@ stuff to sort first,
 but I'll be there.
 
 
-- Don't get blown up by terrorists.
-- OK.
+Don't get blown up by terrorists.
+OK.
 
 
 Or lose cabin pressure
 and fall out of the sky.
 
 
-- Rosie, wait, wait, wait...
-- Or fly into a flock of birds. I mean it!
+Rosie, wait, wait, wait...
+Or fly into a flock of birds. I mean it!
 
 
 I can delay, if you need me to.
@@ -1225,8 +1227,8 @@ Boston.
 This way?
 
 
-<i>If I'd told him,
-he'd never have left</i>
+If I'd told him,
+he'd never have left
 
 
 and his whole life
@@ -1279,14 +1281,14 @@ Wow. A whole life in bullet points.
 Yeah, well now, it's pregnant,
 
 
-have sprog, full-time mother,
+have sprog, fulltime mother,
 
 
 wave goodbye to career,
 live off benefits, grow fat, lose hair.
 
 
-Yeah. You might <i>as</i> well
+Yeah. You might as well
 just kill yourself now.
 
 
@@ -1328,8 +1330,8 @@ I just happen to think
 it's the way to go.
 
 
-- Who's that?
-- Alex.
+Who's that?
+Alex.
 
 
 Have you told him yet?
@@ -1353,8 +1355,8 @@ The way that thing
 burst out of her.
 
 
-- That might happen to you!
-- It might.
+That might happen to you!
+It might.
 
 
 Her whole belly will erupt.
@@ -1373,8 +1375,8 @@ Stop it, the pair of you!
 Pregnancy is a sacred thing!
 
 
-- It can't hear us.
-- Yes, it can!
+It can't hear us.
+Yes, it can!
 
 
 And don't refer to it as "it."
@@ -1400,8 +1402,8 @@ What about names?
 No, um, I'll let the new parents decide.
 
 
-- Give us a peek.
-- Hey!
+Give us a peek.
+Hey!
 
 
 A woman's body doesn't become public
@@ -1446,8 +1448,8 @@ It's coming!
 Towels! Hot water!
 
 
-- Where's the midwife?
-- I don't know!
+Where's the midwife?
+I don't know!
 
 
 Come in now!
@@ -1456,12 +1458,12 @@ Come in now!
 Come on!
 
 
-- Come on!
-- Midwife's here!
+Come on!
+Midwife's here!
 
 
 Let's go!
-As quick <i>as</i> you like!
+As quick as you like!
 
 
 She's just right down the hallway.
@@ -1477,8 +1479,8 @@ Breathe, breathe,
 everything is going to be all right!
 
 
-- Being a girl sucks!
-- Yeah.
+Being a girl sucks!
+Yeah.
 
 
 Oh.
@@ -1563,39 +1565,39 @@ You weren't part of the club.
 Ugh.
 
 
-<i>In battle to preserve sanity,</i>
+In battle to preserve sanity,
 
 
-<i>must remember following rules.</i>
+must remember following rules.
 
 
-<i>Number one,
-never breast feed in a public place.</i>
+Number one,
+never breast feed in a public place.
 
 
-<i>Two, never bounce Katie on knee
-after feeding.</i>
+Two, never bounce Katie on knee
+after feeding.
 
 
 Ugh.
 
 
-<i>Three, try not to cry when she cries.</i>
+Three, try not to cry when she cries.
 
 
-<i>And four, the most important of all,</i>
+And four, the most important of all,
 
 
-<i>never assume trouble isn't
-around the next comer.</i>
+never assume trouble isn't
+around the next comer.
 
 
-- Laters, girls.
-- Bye.
+Laters, girls.
+Bye.
 
 
-- Rosie?
-- Oh, no.
+Rosie?
+Oh, no.
 
 
 Tragic.
@@ -1628,8 +1630,8 @@ the only education you need.
 So, who's the dad?
 
 
-- Ah!
-- Oh!
+Ah!
+Oh!
 
 
 Get it off!
@@ -1693,8 +1695,8 @@ We've just been
 doing obstetrics, in fact.
 
 
-- Really?
-- Mm-hmm.
+Really?
+Mmhmm.
 
 
 So much to learn.
@@ -1808,16 +1810,16 @@ would you buy her a drink?
 Which one is she?
 
 
-- The hot girl from class?
-- Sally.
+The hot girl from class?
+Sally.
 
 
 The bright sunflower
 in the family window box.
 
 
-- Hey!
-- Hey!
+Hey!
+Hey!
 
 
 Everybody has been wondering
@@ -1842,10 +1844,10 @@ It's your first Christmas!
 I hope you got my present!
 
 
-<i>Thanks for the book, Alex.</i>
+Thanks for the book, Alex.
 
 
-<i>I know she'll love it one day.</i>
+I know she'll love it one day.
 
 
 What is it?
@@ -1862,7 +1864,7 @@ Um, handmade hearts.
 
 
 And here, we have
-my favourite Back to the <i>Future</i> poster.
+my favourite Back to the Future poster.
 
 
 It would look so special
@@ -1880,27 +1882,27 @@ Katie, darling,
 it's your fourth Christmas.
 
 
-<i>♪ Tra-la-la-la-la-la-la-la</i>
+♪ Tralalalalalalala
 
 
-<i>Did, uh, Mummy get my Christmas card?</i>
+Did, uh, Mummy get my Christmas card?
 
 
 Really?
 
 
-<i>Thanks for Katie's present.</i>
+Thanks for Katie's present.
 
 
-<i>She wants me to tell you
-she can cycle and count to five.</i>
+She wants me to tell you
+she can cycle and count to five.
 
 
 ...three, four, five!
 
 
-<i>Me, I've got a job
-and finally moved out of Mum and Dad's.</i>
+Me, I've got a job
+and finally moved out of Mum and Dad's.
 
 
 Miss Dunne!
@@ -1938,7 +1940,7 @@ This way, no one can
 come in and steal ours.
 
 
-Mm-hmm.
+Mmhmm.
 
 
 Are you my daddy?
@@ -1950,19 +1952,19 @@ No! No, he's just a nice man
 that's helping Mummy out a bit, that's all.
 
 
-- Damn!
-- What?
+Damn!
+What?
 
 
 It's the wrong key!
 
 
-- Ow!
-- Oh!
+Ow!
+Oh!
 
 
-- My head!
-- Come on, whinger!
+My head!
+Come on, whinger!
 
 
 Over there!
@@ -2007,7 +2009,7 @@ I've always had dreams like that.
 
 
 It sounds to me
-like self-esteem issues, sweetie.
+like selfesteem issues, sweetie.
 
 
 You may need to talk to someone.
@@ -2043,7 +2045,7 @@ What do you want?
 
 
 For her to think we're
-a pair of fuck-ups?
+a pair of fuckups?
 
 
 That's exactly what we are.
@@ -2052,14 +2054,14 @@ That's exactly what we are.
 Whoo!
 
 
-- You OK?
-- I've got sand in my eyes.
+You OK?
+I've got sand in my eyes.
 
 
 Look at Mummy!
 
 
-<i>I</i> dreamt <i>I</i> was an arrow.
+I dreamt I was an arrow.
 
 
 What have you
@@ -2153,7 +2155,7 @@ You're a drama major?
 
 
 I'm a mother of
-a -year-old girl!
+a yearold girl!
 
 
 Cool! Cool!
@@ -2168,8 +2170,8 @@ Can I get you a drink or something?
 A gin and tonic.
 
 
-- Cell? Car keys?
-- Oh, dude. Come on.
+Cell? Car keys?
+Oh, dude. Come on.
 
 
 Guys, guys, guys, no, no, no!
@@ -2179,12 +2181,12 @@ Yup. It's happening!
 We're going!
 
 
-- It's gonna happen!
-- Come on, come on! Come on! Please!
+It's gonna happen!
+Come on, come on! Come on! Please!
 
 
-- One, two, three!
-- OK, OK!
+One, two, three!
+OK, OK!
 
 
 Rosie, Rosie, come on, come...
@@ -2214,8 +2216,8 @@ If you want it like that.
 No, no, no!
 
 
-- You stink.
-- I stink?
+You stink.
+I stink?
 
 
 You haven't bathed.
@@ -2224,12 +2226,12 @@ You haven't bathed.
 Bananas?
 
 
-- All right.
-- One, two...
+All right.
+One, two...
 
 
-- Any good?
-- No, it's sort of...
+Any good?
+No, it's sort of...
 
 
 Catch.
@@ -2245,8 +2247,8 @@ and happy life." Sweet.
 Oh, can I switch?
 
 
-- 'Cause you prefer mine?
-- I prefer it.
+'Cause you prefer mine?
+I prefer it.
 
 
 I do, I do. I don't know
@@ -2257,11 +2259,11 @@ Well, you do go here, so you probably
 should know what you're talking about.
 
 
-<i>Strange to think
-that I could have lived here</i>
+Strange to think
+that I could have lived here
 
 
-<i>and been part of it.</i>
+and been part of it.
 
 
 But I don't regret Katie, you know?
@@ -2289,8 +2291,8 @@ We should go.
 Yeah.
 
 
-- Seriously cute.
-- Aw.
+Seriously cute.
+Aw.
 
 
 It was a ball of fluff.
@@ -2392,20 +2394,20 @@ Oh!
 Let me help!
 
 
-- Shit!
-- Ah-ah-ah!
+Shit!
+Ahahah!
 
 
 Daddy's antique table!
 Alex, quick!
 
 
-- Oh, bollocks.
-- Language, please!
+Oh, bollocks.
+Language, please!
 
 
-- Oh, fuck!
-- No! Why can't you just say fudge?
+Oh, fuck!
+No! Why can't you just say fudge?
 
 
 Oh, Oh.
@@ -2439,8 +2441,8 @@ Sweetie? Dr. Jones is
 by the sweet and sour prawn balls!
 
 
-- Look, he's just...
-- Sweetie, not now. OK?
+Look, he's just...
+Sweetie, not now. OK?
 
 
 But he's a senior thoracic surgeon, Alex.
@@ -2512,8 +2514,8 @@ your girlfriend was at
 home expecting a baby!
 
 
-- And you didn't say!
-- Come on, Rosie.
+And you didn't say!
+Come on, Rosie.
 
 
 Nothing happened, we were just...
@@ -2535,8 +2537,8 @@ Or maybe you needed someone
 from your old life to point out the truth!
 
 
-- What truth?
-- You're in a <i>mess,</i> Alex!
+What truth?
+You're in a mess, Alex!
 
 
 This whole situation is
@@ -2567,8 +2569,8 @@ I was worried you might find it hard,
 you know, coming here.
 
 
-- Hard?
-- I mean, you've had a tough time, Rosie,
+Hard?
+I mean, you've had a tough time, Rosie,
 
 
 and seeing where we live, you know,
@@ -2628,12 +2630,12 @@ Just don't come whinging to me
 when you realise you're empty inside.
 
 
-- No danger of that!
-- Good!
+No danger of that!
+Good!
 
 
-- Excellent!
-- Fantastic!
+Excellent!
+Fantastic!
 
 
 Oh, no!
@@ -2668,7 +2670,7 @@ me think about my life!
 
 
 I wanna meet her,
-Rosie! I am her dad-.
+Rosie! I am her dad.
 
 
 Dad?
@@ -2749,7 +2751,7 @@ One chance!
 
 
 One chance,
-but any mess-ups and you're out.
+but any messups and you're out.
 
 
 And you be nice!
@@ -2759,12 +2761,12 @@ And I don't just
 mean average nice,
 
 
-I mean Father Christmas-Easter Bunny-
-Tom Hanks-all-rolled-into-one nice!
+I mean Father ChristmasEaster Bunny
+Tom Hanksallrolledintoone nice!
 
 
-- Yeah.
-- And you will buy her
+Yeah.
+And you will buy her
 
 
 the most expensive pair
@@ -2775,11 +2777,11 @@ that you can find!
 I'm gonna Google them right now.
 
 
-Woo-hoo!
+Woohoo!
 
 
-- Hi-five!
-- Boo!
+Hifive!
+Boo!
 
 
 Whoo!
@@ -2891,8 +2893,8 @@ Mum!
 Sorry.
 
 
-- Hello?
-- Sally...
+Hello?
+Sally...
 
 
 Rosie.
@@ -2907,7 +2909,7 @@ Um, is Alex there?
 Did he not tell you?
 
 
-<i>Tell me what?</i>
+Tell me what?
 
 
 Alex and I separated.
@@ -2917,7 +2919,7 @@ What?
 When?
 
 
-<i>About eight weeks ago?</i>
+About eight weeks ago?
 
 
 Pretty much the
@@ -2930,10 +2932,10 @@ Oh!
 Oh, God!
 
 
-<i>What?</i>
+What?
 
 
-<i>What?</i>
+What?
 
 
 I think my water just broke!
@@ -2950,12 +2952,12 @@ No, I did not wet myself!
 Where is Herb?
 
 
-- Herb?
-- Oh, God.
+Herb?
+Oh, God.
 
 
-<i>- Who, the artist?
-- Herb!</i>
+Who, the artist?
+Herb!
 
 
 It's happening!
@@ -2981,8 +2983,8 @@ Can't hear you!
 The music's too loud!
 
 
-- Don't do that!
-- Yeah, this music needs to be felt.
+Don't do that!
+Yeah, this music needs to be felt.
 
 
 Is that lipstick you're wearing?
@@ -3016,29 +3018,29 @@ Will you stop fussing like a mother hen?
 Yes.
 
 
-- Good bye!
-- Love you.
+Good bye!
+Love you.
 
 
-- Get in.
-- Love you.
+Get in.
+Love you.
 
 
-- Bye!
-- Bye!
+Bye!
+Bye!
 
 
 Bye.
 
 
-<i>So my parents have sold up
-and gone backpacking,</i>
+So my parents have sold up
+and gone backpacking,
 
 
-<i>while I get to stay at home,</i>
+while I get to stay at home,
 
 
-<i>Nagging a -year-old about lipstick.</i>
+Nagging a yearold about lipstick.
 
 
 I mean, seriously,
@@ -3057,8 +3059,8 @@ Rosie Dunne!
 You work here now?
 
 
-- I just got promoted to reception.
-- Ah.
+I just got promoted to reception.
+Ah.
 
 
 Congratulations!
@@ -3077,8 +3079,8 @@ tomorrow I fly out again,
 New York, Boston, Chicago, nightmare.
 
 
-- The heart bleeds.
-- Yeah.
+The heart bleeds.
+Yeah.
 
 
 Boston?
@@ -3117,10 +3119,10 @@ And maid service twice a day? Mmm.
 Of course.
 
 
-That's how fucked-up your life is.
+That's how fuckedup your life is.
 
 
-<i>Mum!</i>
+Mum!
 
 
 How is Nice?
@@ -3131,7 +3133,7 @@ good places to eat?
 Mum, are you all right?
 
 
-<i>I'm sorry.</i>
+I'm sorry.
 
 
 I'm...
@@ -3140,7 +3142,7 @@ I'm...
 Mum, what is it?
 
 
-<i>It's bad news for you.</i>
+It's bad news for you.
 
 
 Mum?
@@ -3162,7 +3164,7 @@ When I heard,
 the years fell away, I was...
 
 
-I was a fucked-up
+I was a fuckedup
 kid all over again.
 
 
@@ -3191,7 +3193,7 @@ I've just been chatting to your cousin.
 She is such a bore.
 
 
-- Seriously?
+Seriously?
 Are you pissed?
 
 
@@ -3216,19 +3218,19 @@ We both really appreciate your support.
 Let's go, come on.
 
 
-<i>Rosie,</i>
+Rosie,
 
 
-<i>you deserve someone
+you deserve someone
 who loves you with every
-beat of his heart,</i>
+beat of his heart,
 
 
-<i>someone who'll always
-be there for you,</i>
+someone who'll always
+be there for you,
 
 
-<i>and who'll love every part of you...</i>
+and who'll love every part of you...
 
 
 Mum! I'm not going
@@ -3254,8 +3256,8 @@ From Dad.
 In France, the day before he died.
 
 
-- Oh, God, don't read that.
-- What?
+Oh, God, don't read that.
+What?
 
 
 Well, it'll upset you.
@@ -3277,55 +3279,55 @@ OK. Well, call me if you
 need anything, OK?
 
 
-<i>Dear Rosie, I can't believe it.</i>
+Dear Rosie, I can't believe it.
 
 
-<i>Here I am at last,
-finally walking the Mediterranean coast.</i>
+Here I am at last,
+finally walking the Mediterranean coast.
 
 
-<i>I've lost count of the years
-I've waited for this moment.</i>
+I've lost count of the years
+I've waited for this moment.
 
 
-<i>Somehow life got in the way.</i>
+Somehow life got in the way.
 
 
-<i>And it was all good,
-I don't regret a minute of it,</i>
+And it was all good,
+I don't regret a minute of it,
 
 
-<i>but we forget our
-dreams at our peril.</i>
+but we forget our
+dreams at our peril.
 
 
-<i>I know you had yours, too,</i>
+I know you had yours, too,
 
 
-<i>and it must feel sometimes
-like they're gone for good.</i>
+and it must feel sometimes
+like they're gone for good.
 
 
-<i>But I'm so proud
-of the woman you've become, Rosie,</i>
+But I'm so proud
+of the woman you've become, Rosie,
 
 
-<i>of the mother you've been to Katie.</i>
+of the mother you've been to Katie.
 
 
-<i>What I once said
-about you is still true,</i>
+What I once said
+about you is still true,
 
 
-<i>there's nothing you can't do
-if you put your mind to it.</i>
+there's nothing you can't do
+if you put your mind to it.
 
 
-<i>So keep chasing those dreams,
-will you, darling?</i>
+So keep chasing those dreams,
+will you, darling?
 
 
-<i>For my sake, Dad.</i>
+For my sake, Dad.
 
 
 How can someone just
@@ -3363,33 +3365,33 @@ But my own place.
 I think that would be awesome, Mum.
 
 
-<i>Rosie, I understand that
-you haven't been in touch.</i>
+Rosie, I understand that
+you haven't been in touch.
 
 
-<i>And I just need to know one thing.</i>
+And I just need to know one thing.
 
 
-<i>Are you happy with him?</i>
+Are you happy with him?
 
 
-<i>There's not much
+There's not much
 I got right in my life,
-but this family,</i>
+but this family,
 
 
-<i>somehow we're making it work.</i>
+somehow we're making it work.
 
 
-<i>So I guess the one word answer
-to your question should be,</i>
+So I guess the one word answer
+to your question should be,
 
 
-<i>"Yes."</i>
+"Yes."
 
 
-- Hey!
-- Hi.
+Hey!
+Hi.
 
 
 So look at this.
@@ -3412,8 +3414,8 @@ and I found this booking...
 That's Greg's name!
 
 
-- The bridal suite, for this weekend!
-- Mm-hmm.
+The bridal suite, for this weekend!
+Mmhmm.
 
 
 He's already up there on business.
@@ -3425,44 +3427,44 @@ Do you think... For our anniversary?
 Oh!
 
 
-- It's him.
-- Mmm.
+It's him.
+Mmm.
 
 
 Hey!
 
 
-<i>Hey, gorgeous.</i>
+Hey, gorgeous.
 
 
-<i>Uh, listen, I'm gonna
+Uh, listen, I'm gonna
 have to stay here
-a few extra nights,</i>
+a few extra nights,
 
 
-<i>the guys need me
-to check out some more venues.</i>
+the guys need me
+to check out some more venues.
 
 
-<i>Um, can you take Katie
-and go to your Mum's,</i>
+Um, can you take Katie
+and go to your Mum's,
 
 
-<i>and then I can swing by on Sunday
-and pick you up?</i>
+and then I can swing by on Sunday
+and pick you up?
 
 
-<i>Babe?</i>
+Babe?
 
 
 Fine.
 
 
-<i>Cool, see you later, then.</i>
+Cool, see you later, then.
 
 
-- Talk later.
-- Bye.
+Talk later.
+Bye.
 
 
 Check the booking.
@@ -3500,39 +3502,39 @@ be there for you,
 especially your flaws.
 
 
-<i>"I know Katie needs her dad.
-I don't want to intrude.</i>
+"I know Katie needs her dad.
+I don't want to intrude.
 
 
-<i>"So if this is all wrong,
-just ignore it</i>
+"So if this is all wrong,
+just ignore it
 
 
-<i>"and I promise
-I'll never broach the subject again.</i>
+"and I promise
+I'll never broach the subject again.
 
 
-<i>"Greg's not the man
-for you, Rosie.</i>
+"Greg's not the man
+for you, Rosie.
 
 
-<i>"Twice I've let you
-slip through my fingers.</i>
+"Twice I've let you
+slip through my fingers.
 
 
-<i>"Let's stop being afraid
-and take the chance.</i>
+"Let's stop being afraid
+and take the chance.
 
 
-<i>"I know now I can
-make you happy.</i>
+"I know now I can
+make you happy.
 
 
-<i>"Call me if you feel
-the same way.</i>
+"Call me if you feel
+the same way.
 
 
-<i>"Love, Alex."</i>
+"Love, Alex."
 
 
 Bethany?
@@ -3541,82 +3543,82 @@ Bethany?
 What are you doing there?
 
 
-<i>I live here now.
-I moved in.</i>
+I live here now.
+I moved in.
 
 
-<i>Look who it is, Mr Schnuffs!</i>
+Look who it is, Mr Schnuffs!
 
 
 Mr Schnuffs?
 
 
-<i>Rosie?</i>
+Rosie?
 
 
-<i>Uh...</i>
+Uh...
 
 
-<i>Hey... Baby,
-that thing we were talking about earlier.</i>
+Hey... Baby,
+that thing we were talking about earlier.
 
 
-- Yeah.
-- Ask her now.
+Yeah.
+Ask her now.
 
 
 Schnuffie...
 
 
-<i>Um...</i>
+Um...
 
 
-<i>Bethany and me,</i>
+Bethany and me,
 
 
-<i>Uh, we thought,
-why hang around, you know,</i>
+Uh, we thought,
+why hang around, you know,
 
 
-<i>um, so,
-she started organising the whole thing,</i>
+um, so,
+she started organising the whole thing,
 
 
-<i>but then Phil said no,
-so your name came up, obviously.</i>
+but then Phil said no,
+so your name came up, obviously.
 
 
-<i>We're getting married!</i>
+We're getting married!
 
 
-<i>The Wedding's next week.</i>
+The Wedding's next week.
 
 
-<i>It's fast, but we need to fit it in
-before New York Fashion</i> Week.
+It's fast, but we need to fit it in
+before New York Fashion Week.
 
 
-<i>And you have to
-be our best man!</i>
+And you have to
+be our best man!
 
 
-<i>I mean, you are a girl but... Right?</i>
+I mean, you are a girl but... Right?
 
 
-<i>This is all because of you, Rosie.
-You told me to come here.</i>
+This is all because of you, Rosie.
+You told me to come here.
 
 
-<i>It wouldn't have happened
+It wouldn't have happened
 if it wasn't for you!
-Thank you!</i>
+Thank you!
 
 
 Hmm.
 
 
 It is so great
-having you <i>as</i> a friend.
+having you as a friend.
 
 
 I mean, every time
@@ -3636,8 +3638,8 @@ It's like Kate and Leonardo
 in that scene on the deck.
 
 
-- The Titanic.
-- Mm-hmm.
+The Titanic.
+Mmhmm.
 
 
 How appropriate.
@@ -3653,15 +3655,15 @@ This is just proof of ownership.
 He wrote that months ago!
 
 
-- And anyway he's my best friend!
-- No!
+And anyway he's my best friend!
+No!
 
 
 I'm your best friend!
 Get it yet?
 
 
-We just keep missing each other-.
+We just keep missing each other.
 
 
 Maybe we're just not meant to be.
@@ -3716,15 +3718,15 @@ and wherever Katie goes, Toby goes.
 Oh, are you two an item now?
 
 
-- No way. We're friends.
-- No way. We're friends.
+No way. We're friends.
+No way. We're friends.
 
 
 God give me strength.
 
 
-- Well, come on, we're really late.
-- Relax.
+Well, come on, we're really late.
+Relax.
 
 
 I hate arriving early,
@@ -3735,8 +3737,8 @@ a five or six hour cushion
 on the other side.
 
 
-- Um, sorry, what's going on?
-- Volcanic ash.
+Um, sorry, what's going on?
+Volcanic ash.
 
 
 I need to go to Boston!
@@ -3787,8 +3789,8 @@ You get everything
 the wrong way round over here.
 
 
-- And you are?
-- Ruby.
+And you are?
+Ruby.
 
 
 A pleasure to meet you, Ruby.
@@ -3821,11 +3823,11 @@ Well, it works.
 No, no, you don't know how hard it is.
 
 
-<i>Final word of warning.</i>
+Final word of warning.
 
 
-<i>Alex can hold his drink
-to an almost lethal degree,</i>
+Alex can hold his drink
+to an almost lethal degree,
 
 
 as I discovered on my th birthday,
@@ -3989,8 +3991,8 @@ Baby, baby, what's up?
 Katie?
 
 
-- Katie just...
-- She just went through here!
+Katie just...
+She just went through here!
 
 
 Katie?
@@ -4080,8 +4082,8 @@ but she won't be you, you know?
 But you two never actually kissed?
 
 
-- Did you?
-- Of course not.
+Did you?
+Of course not.
 
 
 Katie?
@@ -4107,7 +4109,7 @@ Your th birthday,
 about five tequila slammers in, I think,
 
 
-<i>before you fell off the stool...</i>
+before you fell off the stool...
 
 
 So that's why you took
@@ -4209,8 +4211,8 @@ Uh...
 Hey, guys!
 
 
-- No, I want to see him!
-- Come on, out. No, out.
+No, I want to see him!
+Come on, out. No, out.
 
 
 I said out!
@@ -4316,7 +4318,7 @@ in a manly kind of way.
 Like this.
 
 
-<i>And said,</i>
+And said,
 
 
 "Rosie Dunne,
@@ -4324,5 +4326,3 @@ can I take you to the dance?"
 
 
 Better late than never.
-
-

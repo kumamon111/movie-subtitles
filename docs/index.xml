@@ -7,101 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>youremail@domain.com (Some Person)</managingEditor>
     <webMaster>youremail@domain.com (Some Person)</webMaster>
-    <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://movie-subtitles.tk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Giving away free money</title>
-      <link>http://movie-subtitles.tk/post/2017-03-20-photoswipe-gallery-sample.html</link>
-      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>http://movie-subtitles.tk/post/2017-03-20-photoswipe-gallery-sample.html</guid>
-      <description>Giving away free money すごい人見つけちゃいました。
-望みを言うだけで簡単にお金がもらえる？  That&amp;rsquo;s all you have to do. I am currently selecting folks to send my hard-earned money to, with no strings attached. Request $1, $10, $100 or $1000. No amount is too big or too small, and I will read every e-mail and consider every need and want. I know this is a bizarre concept. But no, I don&amp;rsquo;t want to send you information.</description>
-    </item>
-    
-    <item>
-      <title>Big Image Sample</title>
-      <link>http://movie-subtitles.tk/post/2017-03-07-bigimg-sample.html</link>
-      <pubDate>Tue, 07 Mar 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>http://movie-subtitles.tk/post/2017-03-07-bigimg-sample.html</guid>
-      <description>&lt;p&gt;The image banners at the top of the page are refered to as &amp;ldquo;bigimg&amp;rdquo; in this theme. They are optional, and one more more can be specified. If more than one is specified, the images rotate every 10 seconds. In the front matter, bigimgs are specified using an array of hashes.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Math Sample</title>
-      <link>http://movie-subtitles.tk/post/2017-03-05-math-sample.html</link>
-      <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>http://movie-subtitles.tk/post/2017-03-05-math-sample.html</guid>
-      <description>&lt;p&gt;KaTeX can be used to generate complex math formulas server-side.&lt;/p&gt;
-
-&lt;p&gt;$$
-\phi = \frac{(1+\sqrt{5})}{2} = 1.6180339887\cdots
-$$&lt;/p&gt;
-
-&lt;p&gt;Additional details can be found on &lt;a href=&#34;https://github.com/Khan/KaTeX&#34;&gt;GitHub&lt;/a&gt; or on the &lt;a href=&#34;http://tiddlywiki.com/plugins/tiddlywiki/katex/&#34;&gt;Wiki&lt;/a&gt;.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Code Sample</title>
-      <link>http://movie-subtitles.tk/post/2016-03-08-code-sample.html</link>
-      <pubDate>Tue, 08 Mar 2016 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>http://movie-subtitles.tk/post/2016-03-08-code-sample.html</guid>
-      <description>&lt;p&gt;The following are two code samples using syntax highlighting.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Flake it till you make it</title>
-      <link>http://movie-subtitles.tk/post/2015-02-26-flake-it-till-you-make-it.html</link>
-      <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>http://movie-subtitles.tk/post/2015-02-26-flake-it-till-you-make-it.html</guid>
-      <description>Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?</description>
-    </item>
-    
-    <item>
-      <title>Test markdown</title>
-      <link>http://movie-subtitles.tk/post/2015-02-20-test-markdown.html</link>
-      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>http://movie-subtitles.tk/post/2015-02-20-test-markdown.html</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://movie-subtitles.tk/post/2015-02-13-hamlet-monologue.2.html</link>
-      <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>http://movie-subtitles.tk/post/2015-02-13-hamlet-monologue.2.html</guid>
-      <description> 続きはこちら  devil wear prada（3/11）
-devil wear prada（4/11）
-devil wear prada（5/11）
- 重要表現 続きはこちら  devil wear prada（3/11）
-devil wear prada（4/11）
-devil wear prada（5/11）
- </description>
-    </item>
-    
-    <item>
       <title>Devil wears prada(3)</title>
-      <link>http://movie-subtitles.tk/post/prada3.html</link>
+      <link>http://movie-subtitles.tk/post/prada/prada3/</link>
       <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>http://movie-subtitles.tk/post/prada3.html</guid>
-      <description>続きはこちら  devil wear prada（4/11）
-devil wear prada（5/11）
-devil wear prada（6/11）
+      <guid>http://movie-subtitles.tk/post/prada/prada3/</guid>
+      <description>続きはこちら  devil wear prada（3/7）
+devil wear prada（4/7）
+devil wear prada（5/7）
  重要表現  baffling
 わからない
 saloon
@@ -125,10 +44,10 @@ Must have been some lousy jackets.</description>
     
     <item>
       <title>Devil wears prada(4)</title>
-      <link>http://movie-subtitles.tk/post/prada4.html</link>
+      <link>http://movie-subtitles.tk/post/prada/prada4/</link>
       <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>http://movie-subtitles.tk/post/prada4.html</guid>
+      <guid>http://movie-subtitles.tk/post/prada/prada4/</guid>
       <description>続きはこちら  devil wear prada（5/11）
 devil wear prada（6/11）
 devil wear prada（7/11）
@@ -142,10 +61,10 @@ devil wear prada（7/11）
     
     <item>
       <title>Devil wears prada(5)</title>
-      <link>http://movie-subtitles.tk/post/prada5.html</link>
+      <link>http://movie-subtitles.tk/post/prada/prada5/</link>
       <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>http://movie-subtitles.tk/post/prada5.html</guid>
+      <guid>http://movie-subtitles.tk/post/prada/prada5/</guid>
       <description>続きはこちら  devil wear prada（6/7）
 devil wear prada（7/7）
  重要表現 Chapter 5 690 00:41:49,680 &amp;ndash;&amp;gt; 00:41:51,560 Emily?
@@ -157,10 +76,10 @@ devil wear prada（7/7）
     
     <item>
       <title>Devil wears prada(6)</title>
-      <link>http://movie-subtitles.tk/post/prada6.html</link>
+      <link>http://movie-subtitles.tk/post/prada/prada6/</link>
       <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>http://movie-subtitles.tk/post/prada6.html</guid>
+      <guid>http://movie-subtitles.tk/post/prada/prada6/</guid>
       <description>続きはこちら  devil wear prada（7/7）
  重要表現 Chapter 6 839 00:50:51,960 &amp;ndash;&amp;gt; 00:50:53,800 - Excuse me. - [Horn Honks]
 840 00:51:04,200 &amp;ndash;&amp;gt; 00:51:06,880 - Welcome to the St. Regis. May I assist you with anything? - Oh. Yes.
@@ -171,10 +90,10 @@ devil wear prada（7/7）
     
     <item>
       <title>Devil wears prada(7)</title>
-      <link>http://movie-subtitles.tk/post/prada7.html</link>
+      <link>http://movie-subtitles.tk/post/prada/prada7/</link>
       <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>http://movie-subtitles.tk/post/prada7.html</guid>
+      <guid>http://movie-subtitles.tk/post/prada/prada7/</guid>
       <description>続きはこちら  devil wear prada（3/11）
 devil wear prada（4/11）
 devil wear prada（5/11）
@@ -186,26 +105,11 @@ devil wear prada（5/11）
     </item>
     
     <item>
-      <title>To be</title>
-      <link>http://movie-subtitles.tk/post/2015-02-13-hamlet-monologue.6.html</link>
-      <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate>
-      <author>youremail@domain.com (Some Person)</author>
-      <guid>http://movie-subtitles.tk/post/2015-02-13-hamlet-monologue.6.html</guid>
-      <description> 続きはこちら  devil wear prada（3/11）
-devil wear prada（4/11）
-devil wear prada（5/11）
- 重要表現 続きはこちら  devil wear prada（3/11）
-devil wear prada（4/11）
-devil wear prada（5/11）
- </description>
-    </item>
-    
-    <item>
       <title>Devil wears prada(2)</title>
-      <link>http://movie-subtitles.tk/post/prada2.html</link>
+      <link>http://movie-subtitles.tk/post/prada/prada2/</link>
       <pubDate>Tue, 27 Jan 2015 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>http://movie-subtitles.tk/post/prada2.html</guid>
+      <guid>http://movie-subtitles.tk/post/prada/prada2/</guid>
       <description>続きはこちら  devil wear prada（3/11）
 devil wear prada（4/11）
 devil wear prada（5/11）
@@ -225,10 +129,26 @@ You need to come into the office right this second and pick up her coffee order 
     
     <item>
       <title>Devil wears prada</title>
-      <link>http://movie-subtitles.tk/post/prada.html</link>
+      <link>http://movie-subtitles.tk/post/prada/</link>
       <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>http://movie-subtitles.tk/post/prada.html</guid>
+      <guid>http://movie-subtitles.tk/post/prada/</guid>
+      <description> セクション  devil wear prada（2/7）
+devil wear prada（3/7）
+devil wear prada（4/7）
+devil wear prada（3/7）
+devil wear prada（4/7）
+devil wear prada（3/7）
+devil wear prada（4/7）
+ </description>
+    </item>
+    
+    <item>
+      <title>Devil wears prada</title>
+      <link>http://movie-subtitles.tk/post/prada/prada.1/</link>
+      <pubDate>Mon, 19 Jan 2015 00:00:00 +0000</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>http://movie-subtitles.tk/post/prada/prada.1/</guid>
       <description>続きはこちら  devil wear prada（2/11）
 devil wear prada（3/11）
 devil wear prada（4/11）
@@ -250,29 +170,32 @@ Okay, so I was Miranda&amp;rsquo;s second assistant&amp;hellip;</description>
     
     <item>
       <title>Love, Rosie</title>
-      <link>http://movie-subtitles.tk/post/loverosie.html</link>
+      <link>http://movie-subtitles.tk/post/loverosie/</link>
       <pubDate>Mon, 05 Jan 2015 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>http://movie-subtitles.tk/post/loverosie.html</guid>
+      <guid>http://movie-subtitles.tk/post/loverosie/</guid>
       <description>Love, Rosie
 Take a deep breath and start at the beginning.
 Tell them how we first met.
- Hi. Hi.  Alex Stewart?
+Hi. Hi.
+Alex Stewart?
 Tell them that
 ever since we shared our dreams&amp;hellip;
- Yeah! Yeah!  I had a dream last night.
+Yeah! Yeah!
+I had a dream last night.
 &amp;hellip;even Alex&amp;rsquo;s weirdest ones.
 You know a rowing boat?
 That little curvy bit the oar sits in?
- It&amp;rsquo;s called a rollock, by the way. A what?  Rollock, like &amp;ldquo;bollock&amp;rdquo; with an &amp;ldquo;R.</description>
+It&amp;rsquo;s called a rollock, by the way. A what?
+Rollock, like &amp;ldquo;bollock&amp;rdquo; with an &amp;ldquo;R.&amp;rdquo;</description>
     </item>
     
     <item>
       <title>About me</title>
-      <link>http://movie-subtitles.tk/page/about.html</link>
+      <link>http://movie-subtitles.tk/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>youremail@domain.com (Some Person)</author>
-      <guid>http://movie-subtitles.tk/page/about.html</guid>
+      <guid>http://movie-subtitles.tk/page/about/</guid>
       <description>My name is The Dude. I have the following qualities:
  I rock a great beard I&amp;rsquo;m extremely loyal to my friends I like bowling  That rug really tied the room together.
 my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
